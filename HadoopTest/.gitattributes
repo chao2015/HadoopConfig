@@ -1,3 +1,4 @@
 *.lst linguist-language=java
 *.log linguist-language=java
 *.iml linguist-language=java
+*.class linguist-language=java

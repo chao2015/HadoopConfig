@@ -1,0 +1,13 @@
+com/chenchao/hadoop/mapreduce/WordCountApp$MyMapper.class
+com/chenchao/hadoop/mapreduce/PartitionerApp.class
+com/chenchao/hadoop/mapreduce/CombinerApp$MyMapper.class
+com/chenchao/hadoop/mapreduce/CombinerApp.class
+com/chenchao/hadoop/mapreduce/PartitionerApp$MyReducer.class
+com/chenchao/hadoop/mapreduce/CombinerApp$MyReducer.class
+com/chenchao/hadoop/mapreduce/PartitionerApp$MyPartitioner.class
+com/chenchao/hadoop/mapreduce/WordCountApp2$MyMapper.class
+com/chenchao/hadoop/mapreduce/PartitionerApp$MyMapper.class
+com/chenchao/hadoop/mapreduce/WordCountApp2.class
+com/chenchao/hadoop/mapreduce/WordCountApp.class
+com/chenchao/hadoop/mapreduce/WordCountApp2$MyReducer.class
+com/chenchao/hadoop/mapreduce/WordCountApp$MyReducer.class
